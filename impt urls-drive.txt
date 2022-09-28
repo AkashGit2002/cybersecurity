@@ -1,0 +1,23 @@
+Govt of India - Cyber Laws
+
+https://www.meity.gov.in/cyber-security-division - cyber laws
+
+https://cybercrime.gov.in/  - National Cyber Crime Reporting Portal
+
+https://www.mha.gov.in/division_of_mha/cyber-and-information-security-cis-division/Details-about-Indian-Cybercrime-Coordination-Centre-I4C-Scheme
+
+				- Indian Cyber Crime Coordination Centre (I4C) Scheme
+
+https://cytrain.ncrb.gov.in/ - National Cyber Crime Taining Centre
+
+https://www.slideshare.net/dealexander/critical-infrastructure-35924764			-critical infra protection
+https://www.slideshare.net/ShravanSanidhya1/presentation-on-ethical-hacking-ppt		Ethical Hacking(U-3)
+https://www.balbix.com/insights/attack-vectors-and-breach-methods/			Threats & Attack vectors(u-3)
+https://www.slideshare.net/FuturePointofView/cybersecurity-attack-vectors-how-to-protect-your-organization (U-3)
+https://www.simplilearn.com/what-is-threat-modeling-article				threat modeling(U-3)
+https://info-savvy.com/enterprise-information-security-architecture/
+https://www.imperva.com/learn/application-security/social-engineering-attack/
+https://www.webroot.com/in/en/resources/tips-articles/what-is-social-engineering
+https://www.isms.online/iso-27001/ - ISMS-27001
+
+
